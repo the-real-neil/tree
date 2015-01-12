@@ -17,6 +17,9 @@ tree_SOURCES =	\
   unix.c	\
   xml.c
 
+dist_man1_MANS = doc/tree.1
+
+
 
 # # $Copyright: $
 # # Copyright (c) 1996 - 2014 by Steve Baker
