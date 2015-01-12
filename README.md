@@ -1,6 +1,15 @@
 tree
 ====
 
+This is a respectful adaptation (shameless rip) of Steve Baker's original `tree`
+program. I have added autotoolery (autoconf and automake) to Mr. Baker's
+original work---this should spare users the trouble of editing the Makefile.
+
+The original contents of README follow.
+
+
+
+
 Please read the INSTALL file for installation instructions, particularly if you
 are installing on a non-Linux machine.
 
