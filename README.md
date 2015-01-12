@@ -27,6 +27,7 @@ the trouble of editing the Makefile.
  * [INSTALL](https://raw.githubusercontent.com/rubicks/tree/master/INSTALL)
  * [LICENSE](https://raw.githubusercontent.com/rubicks/tree/master/LICENSE)
  * [README](https://raw.githubusercontent.com/rubicks/tree/master/README)
+ * [TODO](https://raw.githubusercontent.com/rubicks/tree/master/TODO)
 
 
 [tree]: http://mama.indstate.edu/users/ice/tree/
