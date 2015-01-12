@@ -25,6 +25,7 @@ the trouble of editing the Makefile.
 
  * [CHANGES](https://raw.githubusercontent.com/rubicks/tree/master/CHANGES)
  * [INSTALL](https://raw.githubusercontent.com/rubicks/tree/master/INSTALL)
+ * [LICENSE](https://raw.githubusercontent.com/rubicks/tree/master/LICENSE)
  * [README](https://raw.githubusercontent.com/rubicks/tree/master/README)
 
 
