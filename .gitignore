@@ -1,0 +1,55 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Tarballs
+*.tar.gz
+
+# build dir (by convention)
+/_build/
+
+# autotoolery
+/.deps/
+/INSTALL
+/Makefile
+/aclocal.m4
+/autom4te.cache/
+/build-aux/
+/compile
+/config.guess
+/config.h
+/config.h.in
+/config.log
+/config.status
+/config.sub
+/configure
+/depcomp
+/install-sh
+/libtool
+/ltmain.sh
+/m4/*.m4
+/missing
+/stamp-h1
+/test-driver
+Makefile.in
+
+# emacs temp files
+*~
