@@ -1,23 +1,27 @@
-  Please read the INSTALL file for installation instructions, particularly if
-you are installing on a non-Linux machine.
+tree
+====
 
-  This is a handy little utility to display a tree view of directories that
-I wrote some time ago and just added color support to.  I've decided that
-since no one else has done something similar I would go ahead and release
-it, even though it's barely a 1st year CS student hack.  I've found it damn
-handy to peruse a directory tree though, especially when someone is trying to
-hide something from you.
+Please read the INSTALL file for installation instructions, particularly if you
+are installing on a non-Linux machine.
 
-  The main distribution site for tree is here:
+This is a handy little utility to display a tree view of directories that I
+wrote some time ago and just added color support to.  I've decided that since no
+one else has done something similar I would go ahead and release it, even though
+it's barely a 1st year CS student hack.  I've found it damn handy to peruse a
+directory tree though, especially when someone is trying to hide something from
+you.
 
-  http://mama.indstate.edu/users/ice/tree/
-  ftp://mama.indstate.edu/linux/tree/
+The main distribution site for tree is here:
 
-  If you don't like the way it looks let me know how you think it should be
+    http://mama.indstate.edu/users/ice/tree/
+
+    ftp://mama.indstate.edu/linux/tree/
+
+If you don't like the way it looks let me know how you think it should be
 formatted. Feel free to suggest modifications and additions.
 
-  Thanks go out so the following people who have helped bring tree to the
-pinnacle of perfection that it is: ;)
+Thanks go out so the following people who have helped bring tree to the pinnacle
+of perfection that it is: ;)
 
 Francesc Rocher
   - Added HTML output (-H).
