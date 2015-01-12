@@ -5,10 +5,9 @@ This is a respectful adaptation (shameless rip) of Steve Baker's original `tree`
 program. I have added autotoolery (autoconf and automake) to Mr. Baker's
 original work---this should spare users the trouble of editing the Makefile.
 
-The original contents of README follow.
+The (lightly edited) contents of the original README follow.
 
-
-
+<br>
 
 Please read the INSTALL file for installation instructions, particularly if you
 are installing on a non-Linux machine.
@@ -22,9 +21,9 @@ you.
 
 The main distribution site for tree is here:
 
-    http://mama.indstate.edu/users/ice/tree/
+ * <http://mama.indstate.edu/users/ice/tree/>
 
-    ftp://mama.indstate.edu/linux/tree/
+ * <ftp://mama.indstate.edu/linux/tree/>
 
 If you don't like the way it looks let me know how you think it should be
 formatted. Feel free to suggest modifications and additions.
